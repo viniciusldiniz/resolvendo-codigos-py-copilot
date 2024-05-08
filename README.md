@@ -85,5 +85,5 @@ O que aprenderemos?
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
 
 
-Material  retirado do GitHub da professora
-https://github.com/alinealien/resolvendo-codigos-py-copilot/blob/main/README.md
+Material  retirado do GitHub da professora<br>
+[https://github.com/alinealien/resolvendo-codigos-py-copilot/blob/main/README.md]
